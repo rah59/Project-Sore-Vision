@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="net.databinder:unfiltered-filter_2.11:0.8.3" type="repository">
+    <properties maven-id="net.databinder:unfiltered-filter_2.11:0.8.3" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/unfiltered-filter_2.11-0.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-library-2.11.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/unfiltered_2.11-0.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/unfiltered-util_2.11-0.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-xml_2.11-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-codec-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.servlet-api-3.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

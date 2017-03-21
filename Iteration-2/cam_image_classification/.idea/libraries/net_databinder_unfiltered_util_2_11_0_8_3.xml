@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="net.databinder:unfiltered-util_2.11:0.8.3" type="repository">
+    <properties maven-id="net.databinder:unfiltered-util_2.11:0.8.3" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/unfiltered-util_2.11-0.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-library-2.11.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
