@@ -268,6 +268,7 @@
 [debug] == resolving dependencies org.scala-sbt#compiler-ivy-integration;0.13.8->org.scala-sbt#ivy;0.13.8 [compile->default(compile)]
 [info] Resolving org.scala-sbt#ivy;0.13.8 ...
 [debug] sbt-chain: Checking cache for: dependency: org.scala-sbt#ivy;0.13.8 {compile=[default(compile)]}
+[debug] no default cache defined: set to C:\Users\Raj Anantharaman\.ivy2\cache
 [debug] sbt-chain: module revision found in cache: org.scala-sbt#ivy;0.13.8
 [debug] 	found org.scala-sbt#ivy;0.13.8 in sbt-chain
 [debug] == resolving dependencies org.scala-sbt#ivy;0.13.8->org.scala-lang#scala-library;2.10.4 [compile->default(compile)]
@@ -703,9 +704,9 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-agent;0.13.8!test-agent.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.8!apply-macro.jar
-[debug] :: resolution report :: resolve 2578ms :: artifacts dl 141ms
-[debug] 	report for image_classification#image_classification$sbt_2.11;1.0 default produced in C:\Users\Raj Anantharaman\Documents\CS5542\Iteration2\cam_image_classification\target\resolution-cache\reports\image_classification-image_classification$sbt_2.11-default.xml
-[debug] 	resolve done (2578ms resolve - 141ms download)
+[debug] :: resolution report :: resolve 754ms :: artifacts dl 28ms
+[debug] 	report for image_classification#image_classification$sbt_2.11;1.0 default produced in C:\Users\Raj Anantharaman\Documents\CS5542\Project-Sore-Vision\Iteration-2\cam_image_classification\target\resolution-cache\reports\image_classification-image_classification$sbt_2.11-default.xml
+[debug] 	resolve done (754ms resolve - 28ms download)
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: image_classification#image_classification$sources_2.11;1.0
 [debug] 	confs: [default]
@@ -1069,6 +1070,6 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_8_2;0.13.8!precompiled-2_8_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_2;0.13.8!precompiled-2_9_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_3;0.13.8!precompiled-2_9_3.jar(src)
-[debug] :: resolution report :: resolve 187ms :: artifacts dl 63ms
-[debug] 	report for image_classification#image_classification$sources_2.11;1.0 default produced in C:\Users\Raj Anantharaman\Documents\CS5542\Iteration2\cam_image_classification\target\resolution-cache\reports\image_classification-image_classification$sources_2.11-default.xml
-[debug] 	resolve done (187ms resolve - 63ms download)
+[debug] :: resolution report :: resolve 220ms :: artifacts dl 78ms
+[debug] 	report for image_classification#image_classification$sources_2.11;1.0 default produced in C:\Users\Raj Anantharaman\Documents\CS5542\Project-Sore-Vision\Iteration-2\cam_image_classification\target\resolution-cache\reports\image_classification-image_classification$sources_2.11-default.xml
+[debug] 	resolve done (220ms resolve - 78ms download)
