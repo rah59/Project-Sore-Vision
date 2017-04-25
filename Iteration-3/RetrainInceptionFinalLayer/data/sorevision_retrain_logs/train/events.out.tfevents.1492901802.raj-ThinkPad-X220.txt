@@ -1,0 +1,1 @@
+The file events.out.tfevents.1492901802.raj-ThinkPad-X220 has been deleted as it is too big for git
