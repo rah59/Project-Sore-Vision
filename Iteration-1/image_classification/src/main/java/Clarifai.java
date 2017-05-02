@@ -17,11 +17,11 @@ import java.util.List;
 public class Clarifai {
     public static String testImage(String img) throws IOException {
 
+        //final ClarifaiClient client = new ClarifaiBuilder("cT-RYP0YjP0jlO4ASrLyPoGP768jOVD6mUfmoMDr", "sZ2vVaKHKdyFITb0BLLXTa0f9qOh86UoAO_uub6K")
         final ClarifaiClient client = new ClarifaiBuilder("xSj3UtS7J9397wku4XwCjfJVb2dYUaF7U5rIkacQ", "ujp7e5O7llwf_PHpcE-KMcyhQrABU_cMsl24Ubp8")
                 .client(new OkHttpClient())
                 .buildSync();
         client.getToken();
-
 
         //Use the custom model Mouth-Sore to predict the image
          ClarifaiResponse response = client.predict("Mouth-Sore")
